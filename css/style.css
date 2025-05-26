@@ -84,7 +84,7 @@ header{
   
   /* NOVOS estilos para centralizar na tela */
   position: absolute;
-  top: 130%;
+  top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 80%;
